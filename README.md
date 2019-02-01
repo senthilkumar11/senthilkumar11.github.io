@@ -1,8 +1,5 @@
 <style>
-html { 
-  background: url(key.jpg) no-repeat center fixed; 
-  background-size: cover;
-}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -61,7 +58,8 @@ color:black;
 text-align:center; font-size:30px
 }
 </style>
-<body >
+<body style="background: url(key.jpg) no-repeat center fixed; 
+  background-size: cover;">
 
 <ul >
   <li><a href="#contact">Contact</a></li>	
