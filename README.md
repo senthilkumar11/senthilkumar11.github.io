@@ -58,7 +58,7 @@ color:black;
 text-align:center; font-size:30px
 }
 </style>
-<body style="background: url(key.jpg) no-repeat center fixed; 
+<body style="background: url(sen.png) no-repeat center fixed; 
   background-size: cover;">
 
 <ul >
